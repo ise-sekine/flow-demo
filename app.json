@@ -14,5 +14,8 @@
     {
       "url": "heroku/nodejs"
     }
-  ]
+  ],
+  "env": {
+    "ABC" : "HOGE" 
+  }
 }
