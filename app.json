@@ -17,18 +17,5 @@
   ],
   "env": {
     "ABC" : "HOGE" 
-  },
-  "environments": {
-    "staging": {
-      "env": {
-        "ABC": "STAGINGABC"
-      }
-    },
-    "test": {
-      "env": {
-        "ABC": "TESTABC"
-      }
-    }
   }
-
 }
